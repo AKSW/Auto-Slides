@@ -1,0 +1,31 @@
+// This is a comment.
+// '#' gives the topic.
+// Empty lines are fine.
+// Every other line is a presentation title.
+// The following is an example file.
+
+// 10 cities
+#city
+Leipzig
+Kiev
+Brussels
+Kharkiv
+London
+Vienna
+Belgrade
+Istanbul
+Oslo
+New_York_City
+
+// 10 battles
+#battle
+Battle_of_Leipzig
+Attack_on_Sydney_Harbour
+Battle_of_Hamburger_Hill
+Battle_of_Verdun
+Battle_of_Waterloo
+Battle_of_the_Teutoburg_Forest
+Battle_of_Hastings
+Attack_on_Pearl_Harbor
+Battle_of_Stalingrad
+Battle_of_Alesia
